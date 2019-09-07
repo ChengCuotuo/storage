@@ -1,3 +1,5 @@
+package chapter1;
+
 import org.apache.commons.math3.util.ArithmeticUtils;
 
 /**

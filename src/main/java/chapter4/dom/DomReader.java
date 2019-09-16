@@ -1,4 +1,4 @@
-package chapter4;
+package chapter4.dom;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
